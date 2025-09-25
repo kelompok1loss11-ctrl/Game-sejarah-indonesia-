@@ -1,0 +1,2 @@
+#kode python
+print("HALO")
